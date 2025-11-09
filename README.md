@@ -533,9 +533,8 @@ copies of the Software...
 - [React Documentation](https://react.dev/) - Best practices
 
 ### Special Thanks
-- **College Guide**: [Guide Name] - Project mentorship
-- **Department**: [Department Name] - Academic support
-- **Team Members**: [Names if applicable] - Collaboration
+- **Department**: [CSE (AI & ML)] - Academic support
+- **Team Members**: [Hemanath, Hashwin, Ilakyia, Ivanna, Isha] - Collaboration
 - **Open Source Community** - Inspiration and tools
 
 ### Research Papers & References
@@ -552,7 +551,7 @@ copies of the Software...
 - **Roll Number**: [310625148043]
 - **Email**: [spacenature82@gmail.com]
 - **GitHub**: [@SpaceNature123](https://github.com/Spacenature123)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/harish-i-bb8203377/)
 
 ### Academic Information
 - **Institution**: EASWARI ENGINEERING COLLEGE
